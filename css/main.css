@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&display=swap');
+*{
+    margin: 7px;
+    padding: 3px;
+    
+}
+body{
+  font-family: "pink", system-ui;
+  font-weight: 670;
+}
+a {
+  text-decoration: none; 
+}
+.ul, li{
+  list-style-type: none;
+}
+.stomatolog{
+   transform: translateY(-30px, -20px);
+    background-color: #ffcc00;
+    width: 47%;  
+ } 
+.tritochki{
+     width: 7%; 
+    transform: translateX(-50px); 
+    transform: translateY(-38px);
+   }
+   img{
+    float: right;
+   }
+   .main-menu ul li.active{
+    background-color: #ff9100;
+    border-radius: 8px;     
+    pointer-events: none;
+    font-weight: bolder;
+    width: fit-content;
+   }
+    .цитата{
+      width: fit-content;
+      transform: translateX(60px);
+    }
+    .btn{
+      transform: translateY(20px); 
+    }
+    .txt-rot{
+      text-align: right;
+      transform: translateX(px);
+      transform: translateY(760px);
+    }
+    .rota{
+      text-align: right;
+      transform: translateX(px);
+      transform: translateY(760px);
+    }
+
+
